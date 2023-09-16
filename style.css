@@ -1,0 +1,30 @@
+#inputButton {
+    width: 36px;
+}
+
+
+.fa-regular.fa-sun {
+    padding-right: 10px;
+}
+
+video {
+    width: 650px;
+}
+
+h4 {
+    text-align: center;
+    font-weight: 300;
+}
+
+#vid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -123px;
+}
+
+#toggler {
+    margin-top: 40px;
+    margin-left: 94%;
+}
